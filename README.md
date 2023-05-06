@@ -8,4 +8,8 @@ Every think is working on the bench connected to canHacker software and Instrume
 Arduino is measuring frequency of impulses.
 Sending frames every 20ms.
 IC is showing right speed.
+
+
 Please be easy on me, this is my first arduino project ever.
+
+https://github.com/Szu605/abs-signal-toEGS51-overCANBUS-for772-6/blob/88c9b2023c0074602e8932324628e2023e9577be/absToCan.ino
