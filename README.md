@@ -13,3 +13,5 @@ IC is showing right speed.
 Please be easy on me, this is my first arduino project ever.
 
 https://github.com/Szu605/abs-signal-toEGS51-overCANBUS-for772-6/blob/88c9b2023c0074602e8932324628e2023e9577be/absToCan.ino
+
+I facing the problem, when I connected Arduino to car CAN-BUS network seems like generated messages can't get through traffic in the network.
